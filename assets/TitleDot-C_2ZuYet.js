@@ -1,0 +1,1 @@
+import{l as e,xt as t}from"./useDocumentHead-BHU9hvJo.js";var n=t();function r(){return(0,n.jsx)(e,{"aria-hidden":!0,sx:e=>({width:e.spacing(1),height:e.spacing(1),borderRadius:`50%`,bgcolor:`primary.main`,mx:`auto`,mb:2})})}export{r as t};
