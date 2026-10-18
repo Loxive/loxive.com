@@ -1,0 +1,1 @@
+import{G as e,H as t}from"./Box-Bd04PBA0.js";import{T as n,t as r}from"./site-Cvdw0lVV.js";var i=e(t(),1);function a({subject:e,body:t}){return`mailto:${r.contactEmail}?subject=${encodeURIComponent(e)}&body=${encodeURIComponent(t)}`}function o(){let e=n();return(0,i.useCallback)((t,n)=>a({subject:e(`mail.${t}.subject`,n),body:e(`mail.${t}.body`,n)}),[e])}export{o as t};

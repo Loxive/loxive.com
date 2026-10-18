@@ -1,0 +1,1 @@
+import{a as e,i as t,n,o as r}from"./site-Cvdw0lVV.js";var i=e({id:r(),scope:n([`full-track`,`three-tracks`,`arrangement-only`]),priceFrom:t(),deliveryMonths:t()}).array().parse([{id:`full-track`,scope:`full-track`,priceFrom:400,deliveryMonths:1},{id:`three-tracks`,scope:`three-tracks`,priceFrom:1200,deliveryMonths:3}]);export{i as t};

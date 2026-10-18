@@ -1,0 +1,1 @@
+import{F as e,G as t,H as n}from"./Box-Bd04PBA0.js";var r=t(n(),1),i=e(),a=r.createContext();function o({value:e,...t}){return(0,i.jsx)(a.Provider,{value:e??!0,...t})}var s=()=>r.useContext(a)??!1;export{s as n,o as t};
