@@ -1,4 +1,4 @@
-import{F as e,G as t,H as n,t as r}from"./Box-Bd04PBA0.js";import{n as i}from"./ThemeProviderWithVars-B34YiR5F.js";import{C as a}from"./index-BBJZhKDz.js";import{n as o}from"./Home-CajRfEfj.js";var s=t(n(),1),c=24,l=64,u=124,d=`
+import{F as e,G as t,H as n,t as r}from"./Box-Bd04PBA0.js";import{n as i}from"./ThemeProviderWithVars-B34YiR5F.js";import{C as a}from"./index-C21I5J9H.js";import{n as o}from"./Home-CUPtUsVQ.js";var s=t(n(),1),c=24,l=64,u=124,d=`
 attribute vec2 a_pos;
 uniform mat4 u_proj;
 uniform float u_time;
