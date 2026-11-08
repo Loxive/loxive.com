@@ -1,0 +1,1 @@
+var e={value:0,playing:!1};function t(t){let n=new Uint8Array(t.frequencyBinCount),r=0,i=()=>{t.getByteFrequencyData(n);let a=0;for(let e=0;e<12;e+=1)a+=n[e];e.value=Math.min(1,a/3060*1.4),r=requestAnimationFrame(i)};return e.playing=!0,i(),()=>{cancelAnimationFrame(r),e.playing=!1,e.value=0}}export{t as n,e as t};
